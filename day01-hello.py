@@ -1,3 +1,3 @@
 # day01-hello
 
-print('Hello World!!')
+print('Help World!!')
