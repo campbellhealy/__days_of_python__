@@ -1,4 +1,4 @@
-# temperature_convertor
+# temperature convertor
 
 '''
 Convert Celsius to Fahrenheit.
